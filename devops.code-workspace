@@ -8,6 +8,9 @@
     },
     {
       "path": "cobra"
+    },
+    {
+      "path": "auto-cli"
     }
   ],
   "settings": {}
