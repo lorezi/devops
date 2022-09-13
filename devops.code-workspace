@@ -11,6 +11,9 @@
     },
     {
       "path": "auto-cli"
+    },
+    {
+      "path": "open-telemetry"
     }
   ],
   "settings": {}
